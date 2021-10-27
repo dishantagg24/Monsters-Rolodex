@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+<h1 align="center">Monsters Rolodex</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About The Project :eyes: 
 
-## Available Scripts
+* It's a web app containing cards that have monsters in them and these cards have a name and an email and there's also a search box that user can use to filter out the monsters by what user type in.
 
-In the project directory, you can run:
+<br>
 
-### `npm start`
+<p align="center">
+ <img  src="./Readme/github-preview.gif"> 
+<br >
+<br/>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<!-- GETTING STARTED -->
 
-### `npm test`
+## Getting Started 🚀 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To get a local copy up and running follow these simple example steps.
 
-### `npm run build`
+### Prerequisites 💻 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Node ([Download here!](https://nodejs.org/en/download))
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Installation :arrow_down: 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**1.** Fork [this](https://github.com/dishantagg24/monsters-rolodex) repository :fork_and_knife:
 
-### `npm run eject`
+**2.** Clone your forked repository to your local system :busts_in_silhouette:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```sh
+git clone https://github.com/<your-username>/monsters-rolodex.git
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Or Download and extract the zip file.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Running
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+**1.** Install NPM packages :arrow_down:
 
-## Learn More
+```sh
+npm install
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**2.** Run! :running_man:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```sh
+npm start
+```
 
-### Code Splitting
+<!-- CONTRIBUTING -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Contributing 🤝 
 
-### Analyzing the Bundle Size
+Any contributions you make are **greatly appreciated**.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+1. Create your Branch (`git checkout -b master/test-branch`)
+2. Commit your Changes (`git commit -m 'Add some code'`)
+3. Push to the Branch (`git push origin master/test-branch`)
+4. Open a Pull Request
 
-### Making a Progressive Web App
+<!-- CONTACT -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Authors :closed_book: 
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [Dishant Aggarwal](https://github.com/dishantagg24)
